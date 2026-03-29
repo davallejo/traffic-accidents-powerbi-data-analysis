@@ -417,7 +417,7 @@ Inicio → Transformar datos → Configuración del origen de datos
 ✅ Publicar en Power BI Service para compartir con el equipo de
    seguridad y operaciones
 ```
-<img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/a953e805-8d40-4a66-8e85-324c57ea1890" />
+<img width="888" height="495" alt="image" src="https://github.com/user-attachments/assets/156b6daf-10a6-45db-8fe3-7dae3d0b7b22" />
 
 ---
 
@@ -485,8 +485,6 @@ Inicio → Transformar datos → Configuración del origen de datos
 ---
 
 > Construido con 📈 Power BI + 🔄 Power Query + 🧮 DAX + 🗺️ Mapas Geoespaciales
->
-> Caso de negocio desarrollado en el marco del programa **Master Power BI — Nivel Principiante** de **Daxus Latam**
 >
 > Para uso educativo y demostración de soluciones analíticas aplicadas a seguridad vial y logística de transporte
 >
